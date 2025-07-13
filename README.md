@@ -53,10 +53,19 @@ This project aims to automate the identification of plant leaf diseases using im
 
 > *(The dataset is not uploaded due to copyright restrictions. Please refer to screenshots below to see sample results.)*
 
-![Sample Prediction]()  
-*Predicted class: Tomato___Late_blight*
+## Smple Output 
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/9081d051-3564-4e63-b068-7eeeea9fb120" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/dd2b40be-55b9-4431-948f-d82139d388cf" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/60822bbd-2133-4cb3-9d60-415f1538f41d" />
 
-![Model Architecture]
+*Predicted class: Orange Citrus Greening *
+
+## Model Architecture
+<img width="876" height="349" alt="image" src="https://github.com/user-attachments/assets/3d3b6f55-15af-4f89-a4d6-67ab30ff3721" />
+ 
+## Vgg 16 Architecture 
+ 
+ <img width="940" height="413" alt="image" src="https://github.com/user-attachments/assets/2d4f0957-e3ed-43fb-b6bb-3459217b3b16" />
 
 ---
 
